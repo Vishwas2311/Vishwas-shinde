@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Vishwas Shinde</h1>
-<h3 align="center">Vishwas Shinde  |  Test Automation Engineer  |  4+ years EXP.  |  C-DAC |  India</h3>
+<h3 align="center">Vishwas Shinde  |  Test Automation Engineer  |  4+ years EXP.  | ISTQB Certified|  India</h3>
 								
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatt95&label=Profile%20views&color=0e75b6&style=flat" alt="rajatt95" /> </p>
 
