@@ -21,7 +21,7 @@
 	- <a href="https://github.com/stars/rajatt95/lists/cypress-automation-frameworks"> <b> <i> Full Spicejet</i> </b> </a>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Vishwas shinde Github Profile</b></a>
 
-- 📫 How to reach me **rajatvermaa95@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Vishwas Github Page</b></a>
+- 📫 How to reach me **vishwasshinde745@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Vishwas Github Page</b></a>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/16jZ2HjDulzBAp9f00uVlpbBvAZIvIdPL/view?usp=sharing"><b>Vishwas shinde</b></a>
 
