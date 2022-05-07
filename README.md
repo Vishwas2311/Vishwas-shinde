@@ -16,14 +16,14 @@
 
 - 👯 I’m looking to collaborate on <a href="https://github.com/rajatt95"><b> Test Automation Frameworks Development (Web, Mobile and API)</b></a>
 	- <a href="https://github.com/stars/rajatt95/lists/selenium-automation-frameworks"> <b> <i> Selenium Automation Frameworks </i> </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/appium-automation-frameworks"> <b> <i> Appium Automation Frameworks </i> </b> </a>	
-	- <a href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> <b> <i> RestAssured Automation Frameworks </i> </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/cypress-automation-frameworks"> <b> <i> Cypress Automation Frameworks </i> </b> </a>
-- 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Rajat Github Profile</b></a>
+	- <a href="https://github.com/stars/rajatt95/lists/appium-automation-frameworks"> <b> <i> Projects </i> </b> </a>	
+	- <a href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> <b> <i> Amazon  Dynamic product adding projects </i> </b> </a>
+	- <a href="https://github.com/stars/rajatt95/lists/cypress-automation-frameworks"> <b> <i> Full Spicejet</i> </b> </a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/rajatt95"><b>Vishwas shinde Github Profile</b></a>
 
-- 📫 How to reach me **rajatvermaa95@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Rajat Github Page</b></a>
+- 📫 How to reach me **rajatvermaa95@gmail.com** and <a href="https://rajatt95.github.io/"> <b> Vishwas Github Page</b></a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16jZ2HjDulzBAp9f00uVlpbBvAZIvIdPL/view?usp=sharing"><b>RajatVerma_SoftwareTestEngineer</b></a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16jZ2HjDulzBAp9f00uVlpbBvAZIvIdPL/view?usp=sharing"><b>Vishwas shinde</b></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/rajat-v-3b0685128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat-v-3b0685128/" height="30" width="40" /></a></p>
